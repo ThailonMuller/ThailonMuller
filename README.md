@@ -1,6 +1,6 @@
 ### Olá, sou o Thailon Muller 👋
 
-<div align="inline-block">
+<div align="center">
   <a href="https://github.com/ThailonMuller">
 <div>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThailonMuller&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
