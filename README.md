@@ -16,7 +16,16 @@
   
 ##
   
-<div> 
+<div>
   <a href="https://www.linkedin.com/in/thailon-muller-full-developer/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <a href = "mailto:thailon57@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
+  
+##
+  
+<a href="https://github.com/ThailonMuller/stickercsgo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThailonMuller&repo=stickercsgo&theme=midnight-purple" />
+</a>
+<a href="https://github.com/ThailonMuller/NFS-Collection">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThailonMuller&repo=NFS-Collection&theme=midnight-purple" />
+</a>
