@@ -1,4 +1,4 @@
-### Olá, sou o Thailon Muller 👋
+### Olá, sou Thailon Muller 👋
 <div align="left">
   
 <div style="display: inline-block">
