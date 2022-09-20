@@ -4,7 +4,7 @@
 <div>    
 <h2>Hobbies</h2>
 <ul>
-    <li>Rolê de Moto</li>
+    <li>Rolê de Moto [GRUPO]</li>
     <li>Jogar no Pc com a Galera do Dsicord</li>
 </ul>
     
@@ -14,6 +14,11 @@
     <li>Cursando Starter Full Stack Web Developer na <a href="https://www.growdev.com.br/">GROWDEV</a></li>
 </ul>
 </div>
+<h2>Experiências Profissionais</h2>
+<ul>
+    <li>Dispac distribuidora de embalagens - Auxiliar Administrativo -[7anos]</li>
+    <li>Colégio Maristas - T.I -[Atualmente]</li>
+</ul>
 
 
   
