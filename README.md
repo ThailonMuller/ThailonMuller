@@ -11,7 +11,7 @@
 <h2>Fromação</h2>
 <ul>
     <li>Graduado em Gestão de T.I - UNINTER</li>
-    <li>Cursando Starter Full Stack Web Developer -<a href="https://www.growdev.com.br/">GROWDEV</a></li>
+    <li>Cursando Starter Full Stack Web Developer - <a href="https://www.growdev.com.br/">GROWDEV</a></li>
     <li>Curso - Google Cloud Plataform - Cloud Engineer - COURSERA</li>
     <li>Curso - Introdução a Ciência da Computação [EN] - HAVARD/FUNDAÇÃO ESTUDAR</li>
     <li>Curso - Manutenção e Configuração de Computadores - OLÍMPIO</li>    
