@@ -36,7 +36,7 @@
    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThailonMuller&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   
-<div>
+<div style="inline-block" >
 <a href="https://www.linkedin.com/in/thailon-muller-full-developer/"><img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
     
 <a href = 'https://twitter.com/Thailonmuller'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
