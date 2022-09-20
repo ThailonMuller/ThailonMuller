@@ -16,19 +16,20 @@
     <li>Curso - Introdução a Ciência da Computação [EN] - HAVARD/FUNDAÇÃO ESTUDAR</li>
     <li>Curso - Manutenção e Configuração de Computadores - OLÍMPIO</li>    
 </ul>
-</div>
 <h2>Experiências Profissionais</h2>
 <ul>
     <li>Dispack distribuidora de embalagens - Auxiliar Administrativo -[7anos]</li>
     <li>Colégio Maristas/PIO XII - T.I -[Atualmente]</li>
 </ul>
 <h2>Linguagem de Programação Favorita</h2>
-<ul>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>JavaScript</li>
-    <li>Python3</li>    
-</ul>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Thailon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Thailon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
+  <img align="center" alt="Thailon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Thailon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Thailon-VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+</div>
+</div>
     
 <div style="display: inline-block">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ThailonMuller&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
