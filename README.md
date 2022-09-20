@@ -1,9 +1,12 @@
 ### Olá, sou Thailon Muller 👋
 <div align="left">
 
+<h2>Hobbies</h2>
 <ul>
-    <li>Rolê de Moto<li/>
+    <li>Rolê de Moto</li>
+    <li>Jogar no Pc com a Galera do Dsicord</li>
 </ul>
+
   
 <div style="display: inline-block">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ThailonMuller&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
