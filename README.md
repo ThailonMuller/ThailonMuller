@@ -7,7 +7,7 @@
     <li>Rolê de Moto</li>
     <li>Jogar no Pc com a Galera do Dsicord</li>
 </ul>
-<hr>
+    
 <h2>Fromação</h2>
 <ul>
     <li>Graduado em Gestão de T.I</li>
