@@ -10,18 +10,26 @@
     
 <h2>Fromação</h2>
 <ul>
-    <li>Graduado em Gestão de T.I</li>
+    <li>Graduado em Gestão de T.I - UNINTER</li>
     <li>Cursando Starter Full Stack Web Developer na <a href="https://www.growdev.com.br/">GROWDEV</a></li>
+    <li>Curso - Google Cloud Plataform - Cloud Engineer - COURSERA</li>
+    <li>Curso - Introdução a Ciência da Computação [EN] - HAVARD/FUNDAÇÃO ESTUDAR</li>
+    <li>Curso - Manutenção e Configuração de Computadores - OLÍMPIO</li>    
 </ul>
 </div>
 <h2>Experiências Profissionais</h2>
 <ul>
-    <li>Dispac distribuidora de embalagens - Auxiliar Administrativo -[7anos]</li>
-    <li>Colégio Maristas - T.I -[Atualmente]</li>
+    <li>Dispack distribuidora de embalagens - Auxiliar Administrativo -[7anos]</li>
+    <li>Colégio Maristas/PIO XII - T.I -[Atualmente]</li>
 </ul>
-
-
-  
+<h2>Linguagem de Programação Favorita</h2>
+<ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+    <li>Python3</li>    
+</ul>
+    
 <div style="display: inline-block">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ThailonMuller&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThailonMuller&layout=compact&langs_count=7&theme=midnight-purple"/>
