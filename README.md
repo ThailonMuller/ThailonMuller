@@ -1,11 +1,20 @@
 ### Olá, sou Thailon Muller 👋
 <div align="left">
 
+<div>    
 <h2>Hobbies</h2>
 <ul>
     <li>Rolê de Moto</li>
     <li>Jogar no Pc com a Galera do Dsicord</li>
 </ul>
+<hr>
+<h2>Fromação</h2>
+<ul>
+    <li>Graduado em Gestão de T.I</li>
+    <li>Cursando Starter Full Stack Web Developer na GROWDEV</li>
+</ul>
+</div>
+
 
   
 <div style="display: inline-block">
