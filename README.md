@@ -11,7 +11,7 @@
 <h2>Fromação</h2>
 <ul>
     <li>Graduado em Gestão de T.I</li>
-    <li>Cursando Starter Full Stack Web Developer na GROWDEV</li>
+    <li>Cursando Starter Full Stack Web Developer na <a href="https://www.growdev.com.br/">GROWDEV</a></li>
 </ul>
 </div>
 
