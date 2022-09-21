@@ -1,7 +1,7 @@
 ### <h1>Olá, sou Thailon Muller <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h1>
-<img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="300"/>
+<img style="border-style: 30px" align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="300"/>
 
-<h2><img align= "center" src="https://cdn.icon-icons.com/icons2/577/PNG/256/QuadBike_Blue_icon-icons.com_54908.png" width="40" alt=""> Hobbies</h2>
+<h2><img align= "center" src="https://cdn.icon-icons.com/icons2/577/PNG/256/QuadBike_Blue_icon-icons.com_54908.png" width="40" alt="Quadriciclo "> Hobbies</h2>
 
 <ul>
     <li>Rolê de Moto [GRUPO]</li>
@@ -41,3 +41,5 @@ Fromação</h2>
 <a href="https://www.linkedin.com/in/thailon-muller-full-developer/"><img width = '32px' align= "center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>   
 <a style="margin-left: 15px" href = 'https://twitter.com/Thailonmuller'> <img width = '32px' align= "center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 </div>
+
+### outro teste
