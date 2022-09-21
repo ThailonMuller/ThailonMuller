@@ -6,7 +6,7 @@
 <ul>
     <li>Rolê de Moto [GRUPO]</li>
     <li>Jogar no Pc com a Galera do Dsicord</li>
-    </ul>    
+</ul>    
 <h2><img align= "center" src="https://cdn.icon-icons.com/icons2/2958/PNG/512/education_hat_graduation_graduate_cap_university_student_icon_185931.png" width="40" alt="Graduação">
 Fromação</h2>
 <ul>
@@ -29,7 +29,13 @@ Fromação</h2>
   <img align="center" alt="Thailon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Thailon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Thailon-VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-</div> 
+</div>
+<br>
+<h2><img align="center" src="https://cdn.icon-icons.com/icons2/1632/PNG/512/62863books_109231.png" width="40" alt="Estrela"> Estudando Atualmente</h2>
+<ul>
+    <li>Python3</li>
+    <li>Front End I - Growdev</li>
+</ul>
 <hr>   
 </div>   
 <div style="display: inline-block">
@@ -38,5 +44,5 @@ Fromação</h2>
 </div>
 <div>
 <a href="https://www.linkedin.com/in/thailon-muller-full-developer/"><img width = '32px' align= "center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>   
-<a style="margin-left: 25px" href = 'https://twitter.com/Thailonmuller'> <img width = '32px' align= "center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+<a style="margin-left: 25px" href ='https://twitter.com/Thailonmuller'><img width = '32px' align= "center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 </div>
