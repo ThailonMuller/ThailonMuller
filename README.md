@@ -2,13 +2,13 @@
 <div align="left"></div>
 
 <div> 
-<h2><img align= 'center' src="https://cdn.icon-icons.com/icons2/577/PNG/256/QuadBike_Blue_icon-icons.com_54908.png" width="40" alt=""> Hobbies</h2>
+<h2><img align= "center" src="https://cdn.icon-icons.com/icons2/577/PNG/256/QuadBike_Blue_icon-icons.com_54908.png" width="40" alt=""> Hobbies</h2>
 
 <ul>
     <li>Rolê de Moto [GRUPO]</li>
     <li>Jogar no Pc com a Galera do Dsicord</li>
     </ul>    
-<h2><img align= 'center' src="https://cdn.icon-icons.com/icons2/2958/PNG/512/education_hat_graduation_graduate_cap_university_student_icon_185931.png" width="40" alt="Graduação">
+<h2><img align= "center" src="https://cdn.icon-icons.com/icons2/2958/PNG/512/education_hat_graduation_graduate_cap_university_student_icon_185931.png" width="40" alt="Graduação">
 Fromação</h2>
 <ul>
     <li>Graduado em Gestão de T.I - UNINTER</li>
@@ -17,14 +17,14 @@ Fromação</h2>
     <li>Curso - Introdução a Ciência da Computação [EN] - HAVARD/FUNDAÇÃO ESTUDAR</li>
     <li>Curso - Manutenção e Configuração de Computadores - OLÍMPIO</li>    
 </ul>
-<h2>Experiências Profissionais</h2>
+<h2><img align="center" src="https://cdn.icon-icons.com/icons2/81/PNG/256/star_favourite_15499.png" width="40" alt=""> Experiências Profissionais</h2>
 <ul>
     <li>Dispack distribuidora de embalagens - Auxiliar Administrativo -[7anos]</li>
     <li>Colégio Maristas/PIO XII - T.I -[Atualmente]</li>
 </ul>
-<h2>Linguagem de Programação Favorita <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
+<h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Linguagem de Programação Favorita</h2>
     
-<div style="display: inline_block"><br>
+<div style="display: inline_block;margin-left: 40px" ><br>
   <img align="center" alt="Thailon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Thailon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
   <img align="center" alt="Thailon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
