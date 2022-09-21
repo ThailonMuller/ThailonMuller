@@ -5,7 +5,7 @@
 <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px>
 </div>
 <div> 
-<h2><img src="https://cdn.icon-icons.com/icons2/577/PNG/256/QuadBike_Blue_icon-icons.com_54908.png" width="40" alt="">Hobbies</h2>
+<h2><img align= 'center' src="https://cdn.icon-icons.com/icons2/577/PNG/256/QuadBike_Blue_icon-icons.com_54908.png" width="40" alt="">Hobbies</h2>
 
 <ul>
     <li>Rolê de Moto [GRUPO]</li>
