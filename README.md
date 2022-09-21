@@ -35,9 +35,8 @@ Fromação</h2>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ThailonMuller&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThailonMuller&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
-  
+<hr>
 <div>
 <a href="https://www.linkedin.com/in/thailon-muller-full-developer/"><img width = '32px' align= "center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>   
-<a style="margin-left: 15px" href = 'https://twitter.com/Thailonmuller'> <img width = '32px' align= "center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+<a style="margin-left: 25px" href = 'https://twitter.com/Thailonmuller'> <img width = '32px' align= "center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 </div>
-<img src="" alt="">
