@@ -1,4 +1,5 @@
 ### <h1>Olá, sou Thailon Muller <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h1>
+<img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="300"/>
 <div align="left"></div>
 
 <div> 
