@@ -35,7 +35,6 @@ Fromação</h2>
     <li>Python3</li>
     <li>Front End I - Growdev</li>
 </ul>
-<hr>
 <div>
 <div style="display: inline-block">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ThailonMuller&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
