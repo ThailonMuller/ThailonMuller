@@ -5,10 +5,10 @@
 
 <ul>
     <li>Rolê de Moto [GRUPO]</li>
-    <li>Jogar no Pc com a Galera do Dsicord</li>
+    <li>Jogar no Pc com a Galera do Discord</li>
 </ul>    
 <h2><img align= "center" src="https://cdn.icon-icons.com/icons2/2958/PNG/512/education_hat_graduation_graduate_cap_university_student_icon_185931.png" width="40" alt="Graduação">
-Fromação</h2>
+Formação</h2>
 <ul>
     <li>Graduado em Gestão de T.I - UNINTER</li>
     <li>Cursando Starter Full Stack Web Developer - <a href="https://www.growdev.com.br/">GROWDEV</a></li>
