@@ -1,7 +1,6 @@
 ### <h1>Olá, sou Thailon Muller <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h1>
-<div align="left">
+<div align="left"><div>
 
-<div> 
 <h2><img align= 'center' src="https://cdn.icon-icons.com/icons2/577/PNG/256/QuadBike_Blue_icon-icons.com_54908.png" width="40" alt=""> Hobbies</h2>
 
 <ul>
