@@ -16,7 +16,7 @@ Fromação</h2>
     <li>Curso - Introdução a Ciência da Computação [EN] - HAVARD/FUNDAÇÃO ESTUDAR</li>
     <li>Curso - Manutenção e Configuração de Computadores - OLÍMPIO</li>    
 </ul>
-<h2><img align="center" src="https://cdn.icon-icons.com/icons2/81/PNG/256/star_favourite_15499.png" width="40" alt=""> Experiências Profissionais</h2>
+<h2><img align="center" src="https://cdn.icon-icons.com/icons2/81/PNG/256/star_favourite_15499.png" width="40" alt="Estrela"> Experiências Profissionais</h2>
 <ul>
     <li>Dispack distribuidora de embalagens - Auxiliar Administrativo -[7anos]</li>
     <li>Colégio Maristas/PIO XII - T.I -[Atualmente]</li>
@@ -38,6 +38,6 @@ Fromação</h2>
 </div>
   
 <div>
-<a href="https://www.linkedin.com/in/thailon-muller-full-developer/"><img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>   
-<a href = 'https://twitter.com/Thailonmuller'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+<a href="https://www.linkedin.com/in/thailon-muller-full-developer/"><img width = '32px' align= "center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>   
+<a style="margin-left: 15px" href = 'https://twitter.com/Thailonmuller'> <img width = '32px' align= "center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 </div>
