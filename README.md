@@ -30,6 +30,8 @@ Fromação</h2>
     <img align="center" alt="Thailon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Thailon-VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 </div>
+<br>
+<br>
 <h2><img align="center" src="https://cdn.icon-icons.com/icons2/1632/PNG/512/62863books_109231.png" width="40" alt="Estrela"> Estudando Atualmente</h2>
 <ul>
     <li>Python3</li>
