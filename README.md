@@ -41,3 +41,4 @@ Fromação</h2>
 <a href="https://www.linkedin.com/in/thailon-muller-full-developer/"><img width = '32px' align= "center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>   
 <a style="margin-left: 15px" href = 'https://twitter.com/Thailonmuller'> <img width = '32px' align= "center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 </div>
+<img src="" alt="">
